@@ -11,7 +11,7 @@ import { SecondsCounter } from "./component/SecondsCounter.jsx";
 import { ClockIcon } from "./component/SecondsCounter.jsx";
 
 //render your react applicatio
-let counter = 4500
+let counter = 0
 
 setInterval(() => {
     ReactDOM.render(<SecondsCounter timer={counter}/>, document.querySelector("#app"));
