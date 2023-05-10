@@ -1,5 +1,4 @@
 
 
-
-https://user-images.githubusercontent.com/123425280/232248940-eb78321e-accd-4211-a76e-b59d099c2c61.mov
+https://github.com/maraarrieche/simple-counter/assets/123425280/a479d9dd-190f-4279-8733-7a3989cf053f
 
